@@ -99,7 +99,7 @@ $ workon cs102
 # Установленных пакетов нет
 (cs102) $ python -m pip install black isort mypy pylint
 (cs102) $ pip freeze
-black==24.8.0
+black==26.3.1
 isort==5.13.2
 mypy==1.11.2
 pylint==3.3.0
