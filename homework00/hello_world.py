@@ -1,1 +1,2 @@
-
+def text():
+    return message
